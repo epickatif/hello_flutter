@@ -1,16 +1,31 @@
-# hello_flutter
+# Hello Flutter
 
-A new Flutter project.
+Este proyecto es una aplicación de ejemplo creada como parte de una actividad de aprendizaje de Flutter.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+La aplicación muestra un título en la parte superior que dice **"Welcome to Flutter"** y en el centro de la pantalla el texto **"Hello World"**.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.29.x
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cómo ejecutar el proyecto
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/tu-usuario/hello_flutter.git
+   cd hello_flutter
+   ```
+
+2. Ejecuta en un dispositivo o emulador:
+
+   ```bash
+   flutter run
+   ```
+
+## Estado
+
+Proyecto completo y funcional, siguiendo los criterios de evaluación solicitados.
